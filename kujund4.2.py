@@ -1,4 +1,4 @@
-# Minu nimi
+#Kujund
 
 import turtle
 
@@ -43,4 +43,3 @@ turtle.done()
 
 
 
-turtle.done()
